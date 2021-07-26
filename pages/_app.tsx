@@ -1,8 +1,8 @@
-import { AppProps } from 'next/app'
-import 'tailwindcss/tailwind.css'
+import { AppProps } from 'next/app';
+import 'tailwindcss/tailwind.css';
 
 function Ruuvi2({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return <Component {...pageProps} />;
 }
 
-export default Ruuvi2
+export default Ruuvi2;

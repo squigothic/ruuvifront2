@@ -1,4 +1,9 @@
 {
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "bold",
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontWeight": "bold",
   "files.autoSave": "afterDelay",
   "editor.formatOnPaste": true,
   "editor.codeActionsOnSave": {
