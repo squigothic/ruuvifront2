@@ -11,5 +11,8 @@
   },
   "eslint.validate": [
     "javascript, typescript"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0"
+  }
 }
